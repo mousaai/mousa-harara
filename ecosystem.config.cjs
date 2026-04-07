@@ -13,7 +13,7 @@ module.exports = {
       BUILT_IN_FORGE_API_URL: "https://forge.manus.ai",
       BUILT_IN_FORGE_API_KEY: "9h8Ntk6wQ3qZ9bNu5wdqUD",
       MOUSA_API_URL: "https://www.mousa.ai",
-      PLATFORM_API_KEY: "USAA",
+      PLATFORM_API_KEY: "04f51c65800b3e861a88b6bb065fc9a7978343b3012e9ab478b0c21b2f9ea442",
       MY_GOOGLE_AI_KEY: "AIzaSyAIMIAu6wWYjHj8CFjm4fq7uQOo2PNEibA",
       OPENAI_API_KEY: "AIzaSyAIMIAu6wWYjHj8CFjm4fq7uQOo2PNEibA",
       OPENAI_MODEL: "gemini-2.5-flash"
